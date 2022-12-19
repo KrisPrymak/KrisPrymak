@@ -14,12 +14,12 @@ SPA <a href="https://krisprymak.github.io/forest_network/">Social network</a>
 <br>
 Адаптивная верстка <a href="https://krisprymak.github.io/Noemi/">Noemi</a>
 <br>
-Курсовой проект на JS <a href="https://krisprymak.github.io/bank_account_app/">Bank account app</a>
-<br>
 Игры на нативном JS
 - <a href="https://krisprymak.github.io/aim_training/">Aim training</a>
 - <a href="https://krisprymak.github.io/contentGeneration/">Pixel board</a>
 - <a href="https://krisprymak.github.io/Bounce/">Canvas bounce</a>
+<br>
+Курсовой проект на JS <a href="https://github.com/KrisPrymak/bank_account_app/">Bank account app</a>
 
 <ul> 
 <h2>Книги, которые помогали учиться:</h2>
