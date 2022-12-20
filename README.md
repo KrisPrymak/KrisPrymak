@@ -10,7 +10,7 @@
 </ul>
 
 <h2>Работы</h2>
-SPA <a href="https://krisprymak.github.io/forest_network/">Social network</a>
+SPA <a href="https://github.com/KrisPrymak/forest_network">Social network</a>
 <br>
 Адаптивная верстка <a href="https://krisprymak.github.io/Noemi/">Noemi</a>
 <br>
