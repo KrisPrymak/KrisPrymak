@@ -12,7 +12,7 @@
 <h2>Работы</h2>
 SPA <a href="https://github.com/KrisPrymak/forest_network">Social network</a>
 <br>
-Traditional lifecycle <a href="https://github.com/KrisPrymak/portfolio">Web-portfolio</a>
+Traditional lifecycle <a href="https://krisprymak.github.io/web_portfolio/">Web-portfolio</a>
 <br>
 Адаптивная верстка <a href="https://krisprymak.github.io/Noemi/">Noemi</a>
 <br>
