@@ -3,7 +3,7 @@
 <ul>
 <h2>Не пугают такие слова, как:</h2>
 <li>React: Redux, store/state, хуки, санки, axios, flux, contextAPI, HOC, compose, lifecycle, SPA</li>
-<li>JS: замыкание,  AJAX-запросы, REST API, promise, прототипы</li>
+<li>JS: замыкание,  AJAX-запросы, REST API, promise, prototypes</li>
 <li>CSS: less, scss</li>
 <li>HTML: кроссбраузерность, адаптив</li>
 <li>А также: git, ООП</li>
