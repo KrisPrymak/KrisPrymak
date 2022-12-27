@@ -14,7 +14,9 @@ SPA <a href="https://github.com/KrisPrymak/forest_network">Social network</a>
 <br>
 Traditional lifecycle <a href="https://krisprymak.github.io/web_portfolio/">Web-portfolio</a>
 <br>
-Адаптивная верстка <a href="https://krisprymak.github.io/Noemi/">Noemi</a>
+Отзывчивая верстка 
+- <a href="https://krisprymak.github.io/Noemi/">Noemi</a>
+- <a href="https://krisprymak.github.io/repairs_project/">Repairs project</a>
 <br>
 Игры на нативном JS
 - <a href="https://krisprymak.github.io/aim_training/">Aim training</a>
