@@ -11,8 +11,9 @@
 
 <h2>Работы</h2>
 React 
-- <a href="https://github.com/KrisPrymak/forest_network">Social network</a>
+- <a href="https://krisprymak.github.io/kanban_react/">Kanban board</a>
 - <a href="https://krisprymak.github.io/todo_list">ToDo list</a>
+- <a href="https://github.com/KrisPrymak/forest_network">Social network</a>
 <br>
 MPA <a href="https://krisprymak.github.io/web_portfolio/">Web-portfolio</a>
 <br>
