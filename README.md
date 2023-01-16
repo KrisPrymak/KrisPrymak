@@ -16,7 +16,7 @@ React
 - <a href="https://krisprymak.github.io/todo_list">ToDo list</a>
 - <a href="https://github.com/KrisPrymak/forest_network">Social network</a>
 <br>
-Отзывчивая верстка 
+Responsive layout
 - <a href="https://krisprymak.github.io/Noemi/">Noemi</a>
 - <a href="https://krisprymak.github.io/repairs_project/">Repairs project (+slider on JS)</a>
 <br>
