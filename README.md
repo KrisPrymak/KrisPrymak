@@ -10,11 +10,12 @@
 </ul>
 
 <h2>Projects</h2>
-React 
+React - TypeScript
+- <a href="https://github.com/KrisPrymak/forest_network">Social network</a>
+React - JavaScript
 - <a href="https://krisprymak.github.io/portfolio_react/">Web portfolio</a>
 - <a href="https://krisprymak.github.io/kanban_react/">Kanban board</a>
 - <a href="https://krisprymak.github.io/todo_list">ToDo list</a>
-- <a href="https://github.com/KrisPrymak/forest_network">Social network</a>
 <br>
 Responsive layout
 - <a href="https://krisprymak.github.io/Noemi/">Noemi</a>
