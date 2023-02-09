@@ -2,11 +2,11 @@
 
 <ul>
 <h2>My stack:</h2>
-<li>React: Redux, store/state, hooks, thunk, axios, flux, contextAPI, HOC, compose, lifecycle, SPA</li>
+<li>React: Redux, redux toolkit, hooks, thunk, axios, flux, contextAPI, HOC, lifecycle, SPA</li>
 <li>JS: closure, ajax requests, REST API, promise, prototypes</li>
 <li>CSS: less, scss</li>
 <li>HTML: responsive layout</li>
-<li>Also: git, OOP</li>
+<li>Also: git, OOP, scrum, material-UI</li>
 </ul>
 
 <h2>Projects</h2>
