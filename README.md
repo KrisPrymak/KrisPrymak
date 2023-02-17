@@ -14,6 +14,7 @@ React - TypeScript
 - <a href="https://github.com/KrisPrymak/forest_network">Social network</a>
 <br>
 React - JavaScript
+- <a href="https://krisprymak.github.io/lk_work/">Personal account</a>
 - <a href="https://krisprymak.github.io/portfolio_react/">Web portfolio</a>
 - <a href="https://krisprymak.github.io/kanban_react/">Kanban board</a>
 - <a href="https://krisprymak.github.io/todo_list">ToDo list</a>
