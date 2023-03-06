@@ -1,34 +1,31 @@
 <h1 align="center">Hi, I'm Kristina Priimak.</h1>
-
-<ul>
+<a href="https://krisprymak.github.io/portfolio_react/#/">Portfolio</a>
+<img src='portfolio.png'>
+ <!-- html: "https://cdn-icons-png.flaticon.com/512/5968/5968267.png",
+    css: "https://cdn-icons-png.flaticon.com/512/888/888847.png",
+    scss: "https://cdn-icons-png.flaticon.com/512/919/919831.png",
+    react: "https://cdn-icons-png.flaticon.com/512/1126/1126012.png",
+    redux:
+      "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
+    rt: "",
+    mui: "https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png",
+    jest: "",
+    js: "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",
+    ts: "https://cdn-icons-png.flaticon.com/512/5968/5968381.png", -->
+<!-- <ul>
 <h2>My stack:</h2>
-<li>React: Redux, redux toolkit, hooks, thunk, axios, flux, contextAPI, HOC, lifecycle, SPA</li>
-<li>JS: closure, ajax requests, REST API, promise, prototypes</li>
-<li>CSS: less, scss</li>
-<li>HTML: responsive layout</li>
-<li>Also: git, OOP, scrum, material-UI</li>
-</ul>
+<img width='45px' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png'>
+<img width='45px' src='https://cdn-icons-png.flaticon.com/512/888/888847.png'>
+<img width='45px' src='https://cdn-icons-png.flaticon.com/512/919/919831.png'>
+<img width='45px' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png'>
+<img width='45px' src='https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg'>
+<img width='45px' src='https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png'>
+<img width='45px' src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png'>
+<img width='45px' src='https://cdn-icons-png.flaticon.com/512/5968/5968381.png'>
+</ul> -->
 
 <h2>Projects</h2>
-React - TypeScript
-- <a href="https://github.com/KrisPrymak/forest_network">Social network</a>
-<br>
-React - JavaScript
-- <a href="https://krisprymak.github.io/lk_work/">Personal account</a>
-- <a href="https://krisprymak.github.io/portfolio_react/">Web portfolio</a>
-- <a href="https://krisprymak.github.io/kanban_react/">Kanban board</a>
-- <a href="https://krisprymak.github.io/todo_list">ToDo list</a>
-<br>
-Responsive layout
-- <a href="https://krisprymak.github.io/Noemi/">Noemi</a>
-- <a href="https://krisprymak.github.io/repairs_project/">Repairs project (+slider on JS)</a>
-<br>
-Games on native JS
-- <a href="https://krisprymak.github.io/aim_training/">Aim training</a>
-- <a href="https://krisprymak.github.io/contentGeneration/">Pixel board</a>
-- <a href="https://krisprymak.github.io/Bounce/">Canvas bounce</a>
-<br>
-Course project on JS <a href="https://github.com/KrisPrymak/bank_account_app/">Bank account app</a>
+Check my projects on web portfolio <br> https://krisprymak.github.io/portfolio_react/#/projects
 
 <ul> 
 <h2>Books that helped to learn:</h2>
